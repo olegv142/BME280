@@ -1,5 +1,9 @@
 #pragma once
 
+//
+// BME280 pressure and humidity sensor driver for Arduino
+//
+
 #include <stdint.h>
 #include "BME280Comp.h"
 
